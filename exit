@@ -1,0 +1,13 @@
+[1mdiff --git a/code.html b/code.html[m
+[1mindex a0978d8..3773fdd 100644[m
+[1m--- a/code.html[m
+[1m+++ b/code.html[m
+[36m@@ -7,6 +7,6 @@[m
+ </head>[m
+ <body>[m
+     <p>India is global superpower</p>[m
+[31m-    <p>India crushes maldive's tourism (Lakshdweep)</p>[m
+[32m+[m[32m    <p>India crushes maldive's tourism (andaman and nicobar)</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
